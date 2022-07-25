@@ -1,5 +1,5 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="arrowsStyle" value="Arrows" />
+    <option name="arrowsStyle" value="Darcula" />
   </component>
 </application>
