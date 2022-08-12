@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;}}" host="10.199.157.204" id="49954058-fd53-475c-855d-d0e504cddb4d" port="8089" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="false" />
+      <sshConfig authType="PASSWORD" host="10.199.148.215" id="dee9a7df-5270-44e7-a820-2494fcbf3fd7" port="8089" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
