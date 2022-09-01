@@ -3,4 +3,8 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="9999" />
   </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings version="6">
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+  </SqlCodeStyleSettings>
 </code_scheme>
