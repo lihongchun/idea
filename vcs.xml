@@ -39,6 +39,9 @@
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="LABELS_LEFT_ALIGNED" value="true" />
+    <option name="PREFER_COMMIT_DATE" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -46,7 +49,13 @@
         <option value="Default.Author" />
         <option value="Default.Date" />
         <option value="Space.CommitStatus" />
+        <option value="Git.CommitSignature" />
       </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Git.CommitSignature.ColumnIdVisibility" value="true" />
+      </map>
     </option>
   </component>
   <component name="VcsApplicationSettings">
