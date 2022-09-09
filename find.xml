@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/erp-wms-api/src/main/java/com/sankuai/meituan/erp/request/LocationSaveThriftReq.java [erp-wms-api]'" />
-    <option name="defaultScopeName" value="File '…/erp-wms-api/src/main/java/com/sankuai/meituan/erp/request/LocationSaveThriftReq.java [erp-wms-api]'" />
-    <option name="SEARCH_SCOPE" value="File '…/erp-wms-api/src/main/java/com/sankuai/meituan/erp/request/LocationSaveThriftReq.java [erp-wms-api]'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
