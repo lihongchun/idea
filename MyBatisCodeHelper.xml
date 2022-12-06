@@ -2,7 +2,10 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="disableParamIndexCompletion" value="true" />
         <option name="generateWithIfTest" value="true" />
+        <option name="ifTestSamelineLength" value="180" />
+        <option name="ifTestStringNullAndEmpty" value="true" />
         <option name="lastD1" value="1657159484198" />
       </Profile>
     </option>
