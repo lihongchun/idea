@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '…/erp-tms-api/src/main/java/com/sankuai/meituan/erp/tms/api/service [erp-tms-api]'" />
-    <option name="defaultScopeName" value="Directory '…/erp-tms-api/src/main/java/com/sankuai/meituan/erp/tms/api/service [erp-tms-api]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/erp-tms-api/src/main/java/com/sankuai/meituan/erp/tms/api/service [erp-tms-api]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
